@@ -7,11 +7,10 @@ import helper.{Initialization, LoadConfig}
 
 object MainApp {
   var spark: SparkSession = _
-  var prop: Properties = null
+  var prop: Properties = _
 
   def main(): Unit ={
     spark = Initialization.sparkSession()
     prop = LoadConfig.loadInternalConfig("/resources/config.properties")
-    
   }
 }
