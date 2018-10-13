@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningBackups.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningBackups.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningbackups-build.iml" filepath="$PROJECT_DIR$/.idea/modules/learningbackups-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningbackup-build.iml" filepath="$PROJECT_DIR$/.idea/modules/learningbackup-build.iml" />
     </modules>
   </component>
 </project>

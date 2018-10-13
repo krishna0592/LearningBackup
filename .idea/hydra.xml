@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="HydraSettings">
-    <option name="hydraStorePath" value="D:\Learning_Workspace\LearningBackups\.hydra\idea" />
+    <option name="hydraStorePath" value="D:\Learning_Workspace\LearningBackup\.hydra\idea" />
     <option name="noOfCores" value="2" />
-    <option name="projectRoot" value="D:\Learning_Workspace\LearningBackups" />
+    <option name="projectRoot" value="D:\Learning_Workspace\LearningBackup" />
     <option name="sourcePartitioner" value="auto" />
   </component>
 </project>
