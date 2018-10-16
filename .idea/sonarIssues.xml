@@ -13,6 +13,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/helper/Initialization.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/parser/CSV.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SourceCode/latestcode/SCMPlatform/SCMPlatformFrameworkAPI/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/property extranilizing/ChildProject/src/main/scala/TestMethods/TestClass.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/property extranilizing/ChildProject/src/main/scala/service/LoadConfig.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/property extranilizing/untitled/src/main/scala/myapp/MainApp.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/property extranilizing/untitled/src/main/scala/utils/LoadConfig.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

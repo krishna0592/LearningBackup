@@ -10,7 +10,7 @@ object Initialization {
     spark_session = SparkSession
       .builder()
       .appName("LearningBackups")
-      .enableHiveSupport()
+      //.enableHiveSupport()
       .getOrCreate()
 
     val rootLogger = Logger.getRootLogger
