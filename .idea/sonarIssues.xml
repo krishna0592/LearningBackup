@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/app/MainApp.scala">
           <value>
             <set />
@@ -18,7 +23,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/helper/LoadConfig.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/parser/CSV.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SourceCode/latestcode/SCMPlatform/DataProducer/src/main/scala/com/reni/scmplatform/data/producer/DPMain.scala">
           <value>
             <set />
           </value>

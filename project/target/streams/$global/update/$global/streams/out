@@ -6009,7 +6009,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 5148ms :: artifacts dl 543ms
+[debug] :: resolution report :: resolve 5625ms :: artifacts dl 107ms
 [debug] 	report for default#learningbackup-build;0.1-SNAPSHOT compile produced in D:\Learning_Workspace\LearningBackup\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-learningbackup-build-compile.xml
 [debug] 	report for default#learningbackup-build;0.1-SNAPSHOT runtime produced in D:\Learning_Workspace\LearningBackup\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-learningbackup-build-runtime.xml
 [debug] 	report for default#learningbackup-build;0.1-SNAPSHOT test produced in D:\Learning_Workspace\LearningBackup\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-learningbackup-build-test.xml
@@ -6023,5 +6023,5 @@
 [debug] 	report for default#learningbackup-build;0.1-SNAPSHOT docs produced in D:\Learning_Workspace\LearningBackup\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-learningbackup-build-docs.xml
 [debug] 	report for default#learningbackup-build;0.1-SNAPSHOT pom produced in D:\Learning_Workspace\LearningBackup\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-learningbackup-build-pom.xml
 [debug] 	report for default#learningbackup-build;0.1-SNAPSHOT scala-tool produced in D:\Learning_Workspace\LearningBackup\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-learningbackup-build-scala-tool.xml
-[debug] 	resolve done (5148ms resolve - 543ms download)
+[debug] 	resolve done (5625ms resolve - 107ms download)
 [info] Done updating.
